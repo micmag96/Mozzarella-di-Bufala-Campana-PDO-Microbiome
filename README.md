@@ -17,7 +17,7 @@
 <img src="frontiers.png" alt="Frontiers in Microbiology" width="600"/>
 </p>
 
-The work was published in Consortium magazine, issue no. 2024/04, pp. 25–27, a publication dedicated to the analysis, promotion, and enhancement of the Geographical Indications (GI) system and quality agri-food products. Consortium is a quarterly magazine designed to provide an in-depth view of the diverse experiences within the agri-food and wine sectors related to Geographical Indications (GIs). It is published by the Italian State Printing Office and Mint (Istituto Poligrafico e Zecca dello Stato) and curated by Fondazione Qualivita. The magazine aims to analyze and showcase the activities of Italian PDO and PGI consortia and the companies associated with them.
+The work was published in Consortium magazine, issue no. 2024/04, pp. 25–27, a publication dedicated to the analysis, promotion, and enhancement of the Geographical Indications (GI) system and quality agri-food products. Consortium is a quarterly magazine designed to provide an in-depth view of the diverse experiences within the agri-food and wine sectors related to Geographical Indications (GIs). It is published by the Italian Istituto Poligrafico e Zecca dello Stato and curated by Fondazione Qualivita. The magazine aims to analyze and showcase the activities of Italian PDO and PGI consortia and the companies associated with them.
 
 <p align="center">
 <img src="consortium.jpg" alt="Consortium" width="200"/>
