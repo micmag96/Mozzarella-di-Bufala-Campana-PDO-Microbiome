@@ -14,7 +14,7 @@
 **Published:** 03 June 2024
 
 <p align="center">
-<img src="frontiers.png" alt="Frontiers in Microbiology" width="400"/>
+<img src="frontiers.png" alt="Frontiers in Microbiology" width="600"/>
 </p>
 
 <p align="center">
